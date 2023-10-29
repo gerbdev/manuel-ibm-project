@@ -11,7 +11,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <Container>
+      <Container style={{ backgroundColor: "green" }}>
         <Card sx={{ minWidth: 275 }}>
           <CardContent>
             <Typography
